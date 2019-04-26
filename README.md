@@ -20,5 +20,5 @@ The source code for USTC COD LAB 2019.
   + PAINT
   
 ***************************************************************************************************************************************** 
-## Warning: Pay attention to the file path of the file in certain multi-file LABs, otherwise the synthesis may fail with no error message.
+### Warning: Pay attention to the file path of the file in certain multi-file LABs, otherwise the synthesis may fail with no error message.
 ***************************************************************************************************************************************** 
