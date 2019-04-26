@@ -2,7 +2,7 @@
 
 The source code for USTC COD LAB 2019.
 
-##Lab Topic:
+## Lab Topic:
 + Lab 1 : 运算器与寄存器
   + ALU
   + REG
