@@ -1,6 +1,6 @@
 # USTC COD LAB 2019
 
-The source code for USTC COD LAB 2019. Just for reference. Don't copy. :)
+The source code for USTC COD LAB 2019. Just for reference. Do not just copy. :)
 
 ## Lab Topic:
 + Lab 1 : 运算器与寄存器
@@ -20,5 +20,5 @@ The source code for USTC COD LAB 2019. Just for reference. Don't copy. :)
   + PAINT
   
 ***************************************************************************************************************************************** 
-### Warning: Pay attention to the file path of the file in certain multi-file LABs, otherwise the synthesis may fail with no error message. There may be some little bugs in the code.  WATCH OUT :)
+### Warning: There may be some little bugs in the code, but those modules should be able to work properly in most situation.  WATCH OUT :)
 ***************************************************************************************************************************************** 
