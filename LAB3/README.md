@@ -1,0 +1,1 @@
+I didn't add the shake_remove module into the FIFO module, so there are likely to be some little problems caused by the shaking signal when you download the bitstream to the FPGA board. You can find the shake_remove module in USTC_COD_LAB_2019/LAB4 and add by yourself.
